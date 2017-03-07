@@ -1,0 +1,11 @@
+.wrapper {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.innerwrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.wrapper > .global {
+    display: flex;
+}
